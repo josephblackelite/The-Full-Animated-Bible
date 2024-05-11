@@ -1,0 +1,1 @@
+# This repository holds the over 3,800 characters of the bible for consistency in animation and similarity.
